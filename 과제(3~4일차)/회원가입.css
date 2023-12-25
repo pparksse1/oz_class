@@ -1,0 +1,57 @@
+h2{
+    padding-top: 100px;
+}
+.signin_class{
+    width: 400px;
+    height: 700px;
+    border-style: none;
+    border-radius: 10px 10px 10px 10px;
+    background: rgb(235, 242, 224);
+    box-shadow: 7px 7px rgb(136, 194, 121),
+                10px 10px rgb(234, 200, 25),
+                16px 16px rgb(30, 141, 3),
+                21px 21px rgb(248, 103, 19);
+    text-align:center;
+}
+#name, #email, #pw, #re_pw{
+    width: 300px;
+    height: 30px;
+    margin: 0.5em;
+    
+}
+#tel01, #tel02, #tel03{
+    width: 80px;
+    height: 30px;
+    margin: 0.5em;
+}
+.certification{
+    margin-left: 150px;
+}
+.certification_complete{
+    margin-left: 180px;
+    margin-top: 20px;
+}
+#complete_button{
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 100px;
+}
+
+#region{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 6px;
+
+}
+#female, #male{
+    margin-top: 30px ;
+    margin-bottom: 20px;
+}
+#signin_button{
+    width: 300px;
+    height: 30px;
+    background: white;
+    border: 1px solid black;
+    margin-top: 10px;
+}
